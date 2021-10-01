@@ -16,8 +16,8 @@
   border: 1px solid #40005d;
   background-color: #40005d;
   color: white;
-  border-radius: 12px;
-  margin-right: 1rem;
+  border-radius: 13px;
+  margin-right: 1.1rem;
 }
 
 .new-expense button:hover,
